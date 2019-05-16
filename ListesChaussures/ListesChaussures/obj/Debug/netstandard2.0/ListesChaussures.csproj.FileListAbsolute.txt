@@ -1,0 +1,24 @@
+D:\drive google\YEAR 2\session3\PROG1335\Projet\ListesChaussures\ListesChaussures\ListesChaussures\bin\Debug\netstandard2.0\ListesChaussures.deps.json
+D:\drive google\YEAR 2\session3\PROG1335\Projet\ListesChaussures\ListesChaussures\ListesChaussures\bin\Debug\netstandard2.0\ListesChaussures.dll
+D:\drive google\YEAR 2\session3\PROG1335\Projet\ListesChaussures\ListesChaussures\ListesChaussures\bin\Debug\netstandard2.0\ListesChaussures.pdb
+D:\drive google\YEAR 2\session3\PROG1335\Projet\ListesChaussures\ListesChaussures\ListesChaussures\obj\Debug\netstandard2.0\ListesChaussures.csprojAssemblyReference.cache
+D:\drive google\YEAR 2\session3\PROG1335\Projet\ListesChaussures\ListesChaussures\ListesChaussures\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\drive google\YEAR 2\session3\PROG1335\Projet\ListesChaussures\ListesChaussures\ListesChaussures\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\drive google\YEAR 2\session3\PROG1335\Projet\ListesChaussures\ListesChaussures\ListesChaussures\obj\Debug\netstandard2.0\ListesChaussures.csproj.CoreCompileInputs.cache
+D:\drive google\YEAR 2\session3\PROG1335\Projet\ListesChaussures\ListesChaussures\ListesChaussures\obj\Debug\netstandard2.0\ListesChaussures.AssemblyInfoInputs.cache
+D:\drive google\YEAR 2\session3\PROG1335\Projet\ListesChaussures\ListesChaussures\ListesChaussures\obj\Debug\netstandard2.0\ListesChaussures.AssemblyInfo.cs
+D:\drive google\YEAR 2\session3\PROG1335\Projet\ListesChaussures\ListesChaussures\ListesChaussures\obj\Debug\netstandard2.0\XamlC.stamp
+D:\drive google\YEAR 2\session3\PROG1335\Projet\ListesChaussures\ListesChaussures\ListesChaussures\obj\Debug\netstandard2.0\ListesChaussures.dll
+D:\drive google\YEAR 2\session3\PROG1335\Projet\ListesChaussures\ListesChaussures\ListesChaussures\obj\Debug\netstandard2.0\ListesChaussures.pdb
+D:\drive google\ListesChaussures\ListesChaussures\ListesChaussures\bin\Debug\netstandard2.0\ListesChaussures.deps.json
+D:\drive google\ListesChaussures\ListesChaussures\ListesChaussures\bin\Debug\netstandard2.0\ListesChaussures.dll
+D:\drive google\ListesChaussures\ListesChaussures\ListesChaussures\bin\Debug\netstandard2.0\ListesChaussures.pdb
+D:\drive google\ListesChaussures\ListesChaussures\ListesChaussures\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\drive google\ListesChaussures\ListesChaussures\ListesChaussures\obj\Debug\netstandard2.0\ChaussuresPage.xaml.g.cs
+D:\drive google\ListesChaussures\ListesChaussures\ListesChaussures\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\drive google\ListesChaussures\ListesChaussures\ListesChaussures\obj\Debug\netstandard2.0\ListesChaussures.csproj.CoreCompileInputs.cache
+D:\drive google\ListesChaussures\ListesChaussures\ListesChaussures\obj\Debug\netstandard2.0\ListesChaussures.AssemblyInfoInputs.cache
+D:\drive google\ListesChaussures\ListesChaussures\ListesChaussures\obj\Debug\netstandard2.0\ListesChaussures.AssemblyInfo.cs
+D:\drive google\ListesChaussures\ListesChaussures\ListesChaussures\obj\Debug\netstandard2.0\XamlC.stamp
+D:\drive google\ListesChaussures\ListesChaussures\ListesChaussures\obj\Debug\netstandard2.0\ListesChaussures.dll
+D:\drive google\ListesChaussures\ListesChaussures\ListesChaussures\obj\Debug\netstandard2.0\ListesChaussures.pdb
